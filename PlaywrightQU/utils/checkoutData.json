@@ -1,0 +1,13 @@
+{
+    "fullName" : "Testing Full Name",
+    "nameOnCard" : "Testing Name on card",
+    "email" : "test@email.com",
+    "ccNumber" : "4111111111111111",
+    "address" : "672 Main state",
+    "expMonth" : "June",
+    "city" : "Ketchum",
+    "expYear" : "2024",
+    "cvv" : "123",
+    "state" : "Idaho",
+    "zip" : "83353"
+}

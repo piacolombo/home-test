@@ -1,0 +1,7 @@
+{
+    "username" : "johndoe19",
+    "password" : "supersecret",
+    "worngPass" : "Asdf123!",
+    "blankUser" : "",
+    "blankPass" : ""
+}
